@@ -10,3 +10,7 @@
 ```
 EXAMPLE CODE HERE
 ```
+
+###### here is an example task list
+- [x] learn Git
+- [ ] pass course
